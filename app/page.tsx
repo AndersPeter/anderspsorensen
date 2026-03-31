@@ -46,7 +46,7 @@ const roles = [
     title: "Indie Game Developer",
     subtitle: "Selvstændige spilprojekter",
     description:
-      "Passioneret indie-spiludvikler bag Quackel. Kreative spilkoncepter med sjæl — fra prototype til udgivelse.",
+      "Passioneret indie-spiludvikler bag Quackel. Kreative spilkoncepter — fra prototype til udgivelse.",
     tags: ["Indie", "Game Design", "Quackel"],
     href: "https://www.quackel.dk",
     linkLabel: "quackel.dk",
