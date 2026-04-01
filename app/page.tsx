@@ -176,9 +176,6 @@ export default function Home() {
         <div className="max-w-4xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-zinc-400">
           <span>© {new Date().getFullYear()} Anders Peter Sørensen</span>
           <div className="flex gap-5">
-            <a href="mailto:contact@anderspsorensen.dk" className="hover:text-zinc-700 dark:hover:text-zinc-200 transition-colors">
-              contact@anderspsorensen.dk
-            </a>
             <a href="tel:+4540974842" className="hover:text-zinc-700 dark:hover:text-zinc-200 transition-colors">
               40 97 48 42
             </a>
@@ -188,3 +185,5 @@ export default function Home() {
     </div>
   );
 }
+
+
